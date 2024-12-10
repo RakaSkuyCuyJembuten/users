@@ -10,8 +10,8 @@ password:root
 user:root
 password:root
 ------------
-user:
-password:
+user:raka
+password:raka
 ------------
 user:
 password:
