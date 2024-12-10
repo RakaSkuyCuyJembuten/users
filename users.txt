@@ -4,8 +4,8 @@ KENSPLOIT DATA USER
 user:k
 password:k
 ------------
-user:
-password:
+user:skibidi
+password:root
 ------------
 user:
 password:
