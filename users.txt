@@ -7,8 +7,8 @@ password:k
 user:skibidi
 password:root
 ------------
-user:
-password:
+user:root
+password:root
 ------------
 user:
 password:
