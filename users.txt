@@ -4,11 +4,11 @@ KENSPLOIT DATA USER
 user:k
 password:k
 ------------
-user:jembud
-password:skibidi
+user:
+password:
 ------------
-user:hai
-password:hai
+user:
+password:
 ------------
 user:
 password:
